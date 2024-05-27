@@ -1,4 +1,4 @@
-# Body Fat Percent Prediction
+# Body Fat Percent Estimation
 
 This project aims to estimate body fat percent from various physical measurements such as density, weight, height, etc.
 
